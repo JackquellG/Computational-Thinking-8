@@ -4,6 +4,9 @@ from codesters import StageClass
 
 stage = StageClass()
 
+
+
+
 stage.set_background("travis")
 
 q1 = codesters.Square(100, 100, 200, 'tan')
