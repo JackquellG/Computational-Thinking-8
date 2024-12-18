@@ -34,7 +34,7 @@ elif answer == "B":
 
 
 
-answer = input ("Would you rather A) play Fifa25, or B) play 2K25")
+answer = input ("Would you rather play A) Fifa25, or B) 2K25")
 if answer == "A":
     soccer_points += 1
 elif answer == "B":
