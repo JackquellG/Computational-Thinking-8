@@ -1,8 +1,8 @@
-#start
+# start
 soccer_points = 0
 basketball_points = 0
 
-#middle
+#  middle
 answer = input ("Do you like A) Soccer, or B) basketball?")
 if answer == "A":
     soccer_points += 1
@@ -42,7 +42,7 @@ elif answer == "B":
     basketball_points += 1
 
 
-#end
+# end
 if soccer_points > basketball_points:
     print("Your weird cus you like soccer")
 elif basketball_points > soccer_points:
